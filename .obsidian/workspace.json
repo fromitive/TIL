@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/프로그래밍 요구사항 정리.md",
+                "file": "java/프로그래밍 요구사항에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/프로그래밍 요구사항 정리.md",
+                "file": "java/프로그래밍 요구사항에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/프로그래밍 요구사항 정리.md",
+                "file": "java/프로그래밍 요구사항에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/프로그래밍 요구사항 정리.md"
+                "file": "java/프로그래밍 요구사항에 대한 고찰.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   },
   "active": "5443a86b643268a0",
   "lastOpenFiles": [
-    "java/프로그래밍 요구사항 정리.md",
+    "java/프로그래밍 요구사항에 대한 고찰.md",
     "java",
     "Welcome.md"
   ]
