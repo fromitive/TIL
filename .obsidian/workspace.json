@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8541a57bcf9f38d8",
+        "id": "3271beffd8ef50e8",
         "type": "tabs",
         "children": [
           {
-            "id": "5443a86b643268a0",
+            "id": "90b5290ccb4805f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/프로그래밍 요구사항에 대한 고찰.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/프로그래밍 요구사항에 대한 고찰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/프로그래밍 요구사항에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "java/프로그래밍 요구사항에 대한 고찰.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5443a86b643268a0",
+  "active": "90b5290ccb4805f5",
   "lastOpenFiles": [
     "java/프로그래밍 요구사항에 대한 고찰.md",
     "java",
