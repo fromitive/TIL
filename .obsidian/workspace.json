@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3271beffd8ef50e8",
+        "id": "da758619ddcd0265",
         "type": "tabs",
         "children": [
           {
-            "id": "90b5290ccb4805f5",
+            "id": "36d504122563c8b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90b5290ccb4805f5",
+  "active": "36d504122563c8b0",
   "lastOpenFiles": [
+    "refactoring/리팩터링 - 메서드 추출.md",
+    "refactoring",
     "java/프로그래밍 요구사항에 대한 고찰.md",
     "java",
     "Welcome.md"
